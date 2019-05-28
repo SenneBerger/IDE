@@ -28,19 +28,19 @@
 - Slow launch time
 - File search is extremely slow
 
-## IDE 3
+## Brackets
 
-#### Advantages:													
+### Advantages:													
 
-- ​																							
--  
--  
+- Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. ​																							
+- Brackets is free and open source.
+- Brackets will fill in the tags when typing.
 
 #### Disadvantage:
 
-- 
--  
--  
+- They command to use another text editor for PHP developers.
+- No collaborative editing 
+- The official extension registry is sort of confusing. All the folders and files are in one big list without any filtering options or categories. 
 
 ## Atom
 
