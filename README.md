@@ -1,6 +1,6 @@
 # IDE
 
-## ATOM
+## [ATOM](<https://atom.io/>)
 
 #### Advantages:													
 
@@ -14,7 +14,7 @@
 - It can be intensive for older processors
 - Tabs can be a bit "iffy"
 
-## Visual Studio Code 
+## [Visual Studio Code](<https://code.visualstudio.com/download>)
 
 #### Advantages:													
 
@@ -28,7 +28,7 @@
 - Slow launch time
 - File search is extremely slow
 
-## Brackets
+## [Brackets](<http://brackets.io/>)
 
 ### Advantages:													
 
@@ -42,6 +42,8 @@
 - No collaborative editing 
 - The official extension registry is sort of confusing. All the folders and files are in one big list without any filtering options or categories. 
 
-## Atom
+
+
+## Atom:
 
 I started using Atom, and have no complex knowledge about any other IDE. Atom feels comfortable and seems to do whatever I like it to do.
