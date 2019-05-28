@@ -16,19 +16,19 @@
 
 
 
-## IDE 
+## Visual Studio Code 
 
 #### Advantages:													
 
-- ​																							
--  
--  
+- Extendable through plug-ins																					
+- Updated frequently
+- Integrated debugging 
 
 #### Disadvantage:
 
-- 
--  
--  
+- Bad auto import
+- Slow launch time
+- File search is extremely slow
 
 ## IDE 3
 
