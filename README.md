@@ -4,17 +4,15 @@
 
 #### Advantages:													
 
-- ​																							
--  
--  
+- First of all, it's FREE!																			
+- I like it's theme
+- Kirby-snippits! no need of a cheatsheet.
 
 #### Disadvantage:
 
-- 
--  
--  
-
-
+- It's a browser-based app so it's a bit slower than other apps
+- It can be intensive for older processors
+- Tabs can be a bit "iffy"
 
 ## Visual Studio Code 
 
